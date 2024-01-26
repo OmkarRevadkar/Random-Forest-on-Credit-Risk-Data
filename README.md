@@ -1,4 +1,4 @@
-Random Forest(RF) Algorithm is a supervised learning classification algorithm. It is a collection of multiple decision trees. Hence more chances of getting better predictions than Decision Tree (DT) algorithm as prediction will be done on each tree in RF unlike on single tree in DT.
+Random Forest (RF) Algorithm is a supervised learning classification algorithm. It is a collection of multiple decision trees. Hence more chances of getting better predictions than Decision Tree (DT) algorithm as prediction will be done on each tree in RF unlike on single tree in DT.
 Target variable is in classes or categories. Sampling is possible and we have performed it on Credit Risk Dataset. 
 
 Following steps are involved:
