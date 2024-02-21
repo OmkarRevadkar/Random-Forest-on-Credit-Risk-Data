@@ -1,11 +1,11 @@
 Random Forest (RF) Algorithm is a supervised learning classification algorithm. It is a collection of multiple decision trees. Hence more chances of getting better predictions than Decision Tree (DT) algorithm as prediction will be done on each tree in RF unlike on single tree in DT.
-Target variable is in classes or categories. Sampling is possible and we have performed it on Credit Risk Dataset. 
+Target variable is in classes or categories. Sampling is possible and we have performed it on Credit Risk Dataset with target variable being Loan Approval Status. 
 
 Following steps are involved:
 
 1. Import the necessary libraries in Jupyter notebook.
 2. Load the dataset.
-3. Perform Data Cleaning -- fill missing values, standardization, normalization, etc.
+3. Perform Data Cleaning -- fill missing values, add/drop insignificant columns/rows, etc.
 4. Random Sampling by splitting data into train and test data.
 5. Build the model with Random Forest Classifier on train (fit on train).
 6. Predict on test data.
